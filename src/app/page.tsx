@@ -81,7 +81,7 @@ export default function Home() {
           I’m actively looking for opportunities. If you think I could be a good fit, reach out and I’ll respond quickly.
         </p>
         <div className="flex flex-wrap gap-3">
-          <a href="mailto:sami@example.com" className="inline-flex items-center gap-2 rounded-md bg-blue-600 text-white px-4 py-2 hover:bg-blue-700">Email</a>
+          <a href="mailto:samiaburaed42@gmail.com" className="inline-flex items-center gap-2 rounded-md bg-blue-600 text-white px-4 py-2 hover:bg-blue-700">Email</a>
           <a href="https://github.com/sami1507" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-md border px-4 py-2 hover:bg-zinc-100 dark:hover:bg-zinc-900">GitHub</a>
           <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-md border px-4 py-2 hover:bg-zinc-100 dark:hover:bg-zinc-900">LinkedIn</a>
         </div>
